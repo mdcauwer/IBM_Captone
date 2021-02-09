@@ -13,4 +13,4 @@ The project is separated in three parts:
 
 + Part 1: Scraping and cleaning data from Wikipedia using pandas and beautifulsoup
 + Part 2: Finding GPS coordinates using geocoder
-+ Part 3: Exploring and clustering neighborhoods
++ Part 3: Exploring and clustering neighborhoods.
